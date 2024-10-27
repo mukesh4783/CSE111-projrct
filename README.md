@@ -1,2 +1,2 @@
-# CSE111-projrct
+# CSE326-projrct
 GYM website
